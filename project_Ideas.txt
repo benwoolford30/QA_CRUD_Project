@@ -1,0 +1,4 @@
+1. Testing out nano
+2. Make a webpage form that is screen independent and pulls 
+data from a database to populate content dynamically with automatic 
+testing and deployment through jenkins with git as source control
